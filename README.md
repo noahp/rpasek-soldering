@@ -92,3 +92,15 @@ his!
 
 * Don't use rosin flux. It boils underneath parts and leaves a sticky gooey mess
   that is hard to get rid of.
+
+---
+
+**Noah Tips**
+
+- Use the largest tip you can- larger thermal mass on the bigger chisel tips
+  make the joint heat more quickly and the solder wet more reliably
+  
+- You can use the above tip to solder down a row of TQFP pins easily- apply a
+  ton of flux to the joint, and then drag a fat blob of solder across the row
+  of pins. Solder should wet to the exposed metal only, and you can go back
+  and clean any bridges that may have formed.
